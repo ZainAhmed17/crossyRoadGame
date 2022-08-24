@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1657816786 source:/Users/zainahmed/Desktop/cgProject/crossyGame/main.cpp
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+	<GLUT/glut.h>
+
